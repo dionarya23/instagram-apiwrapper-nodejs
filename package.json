@@ -1,0 +1,22 @@
+{
+  "name": "instagram-apiwrapper-nodejs",
+  "keywords": [
+    "instagram",
+    "api",
+    "instagram scrapping"
+  ],
+  "version": "1.0.1",
+  "description": "Node.js Unofficial Client Library API Instagram",
+  "main": "index.js",
+  "homepage": "https://github.com/dionarya23/instagram-apiwrapper-nodejs",
+  "repository": {
+    "url": "https://github.com/dionarya23/instagram-apiwrapper-nodejs",
+    "type": "git"
+  },
+  "author": "Dion Arya Pamungkas <dionarya.p@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "promise": "^8.1.0",
+    "request": "^2.88.2"
+  }
+}
