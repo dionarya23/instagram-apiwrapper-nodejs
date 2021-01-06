@@ -4,7 +4,7 @@ Unofficial Instagram API Wrapper merupakan Node.js Package yang memudahkan devel
 
 # Daftar Isi
 + [Instalasi](https://github.com/dionarya23/instagram-apiwrapper-nodejs#instalasi)
-+ [Penggunaan](https://github.com/dionarya23/instagram-apiwrapper-nodejs#pengunaan)
++ [Penggunaan](https://github.com/dionarya23/instagram-apiwrapper-nodejs#penggunaan)
 + [Perhatian](https://github.com/dionarya23/instagram-apiwrapper-nodejs#perhatian)
 
 # Instalasi

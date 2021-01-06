@@ -5,7 +5,7 @@
     "api",
     "instagram scrapping"
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node.js Unofficial Client Library API Instagram",
   "main": "index.js",
   "homepage": "https://github.com/dionarya23/instagram-apiwrapper-nodejs",
